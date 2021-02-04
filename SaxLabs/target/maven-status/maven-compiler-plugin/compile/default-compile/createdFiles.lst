@@ -1,0 +1,5 @@
+com\arabie\App.class
+module-info.class
+com\arabie\Student.class
+com\arabie\StudentHandler.class
+com\arabie\Handler.class

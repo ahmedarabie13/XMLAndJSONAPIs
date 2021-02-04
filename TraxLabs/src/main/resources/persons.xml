@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persons>
+    <person>
+        <name>
+            <firstname>ahmed</firstname>
+            <lastname>Arabie</lastname>
+        </name>
+        <address>
+            <number>10</number>
+            <street>noWhere highway st</street>
+        </address>
+    </person>
+    <person>
+        <name>
+            <firstname>ahmed</firstname>
+            <lastname>Arabie</lastname>
+        </name>
+        <address>
+            <number>10</number>
+            <street>noWhere highway st</street>
+        </address>
+    </person>
+    <person>
+        <name>
+            <firstname>ahmed</firstname>
+            <lastname>Arabie</lastname>
+        </name>
+        <address>
+            <number>10</number>
+            <street>noWhere highway st</street>
+        </address>
+    </person>
+    <person>
+        <name>
+            <firstname>ahmed</firstname>
+            <lastname>Arabie</lastname>
+        </name>
+        <address>
+            <number>10</number>
+            <street>noWhere highway st</street>
+        </address>
+    </person>
+</persons>

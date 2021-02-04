@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Person xmlns="com.arabie.personSchema">
+    <Name>Ali</Name>
+    <Address>
+        <Number>10</Number>
+        <Street>noWhere st</Street>
+    </Address>
+    <Address>
+        <Number>12</Number>
+        <Street>noWhere 2 st</Street>
+    </Address>
+</Person>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MyProduct>
+    <ProductID>1</ProductID>
+    <name>Laptop</name>
+    <price>20.0</price>
+    <manufacturerName>ASUS</manufacturerName>
+    <Addresses>
+        <id>1</id>
+        <city>Giza</city>
+        <country>Egypt</country>
+    </Addresses>
+    <Addresses>
+        <id>2</id>
+        <city>Cairo</city>
+        <country>Egypt</country>
+    </Addresses>
+</MyProduct>

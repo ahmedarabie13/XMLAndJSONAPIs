@@ -1,0 +1,8 @@
+com\arabie\App.class
+com\arabie\Product.class
+com\arabie\Address.class
+module-info.class
+com\arabie\models\PersonType.class
+com\arabie\models\package-info.class
+com\arabie\models\AddressType.class
+com\arabie\models\ObjectFactory.class

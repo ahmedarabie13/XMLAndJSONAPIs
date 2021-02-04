@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="MyProduct" type="product"/>
+
+  <xs:complexType name="product">
+    <xs:sequence>
+      <xs:element name="ProductID" type="xs:int"/>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+      <xs:element name="price" type="xs:double"/>
+      <xs:element name="productionDate" type="xs:string" minOccurs="0"/>
+      <xs:element name="manufacturerName" type="xs:string" minOccurs="0"/>
+      <xs:element name="Addresses" type="address" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="address">
+    <xs:sequence>
+      <xs:element name="id" type="xs:int"/>
+      <xs:element name="city" type="xs:string" minOccurs="0"/>
+      <xs:element name="country" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+

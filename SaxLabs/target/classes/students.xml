@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student>
+        <name>ahmed</name>
+        <class>1</class>
+        <grade>A</grade>
+    </student>
+    <student>
+        <name>ali</name>
+        <class>2</class>
+        <grade>B</grade>
+    </student>
+    <student>
+        <name>ziad</name>
+        <class>1</class>
+        <grade>D</grade>
+    </student>
+    <student>
+        <name>hossam</name>
+        <class>1</class>
+        <grade>A</grade>
+    </student>
+    <student>
+        <name>omar</name>
+        <class>2</class>
+        <grade>B</grade>
+    </student>
+    <student>
+        <name>waleed</name>
+        <class>1</class>
+        <grade>D</grade>
+    </student>
+</students>

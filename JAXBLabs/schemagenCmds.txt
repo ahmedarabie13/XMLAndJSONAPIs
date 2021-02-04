@@ -1,0 +1,1 @@
+schemagen src\main\java\com\arabie\Product.java src\main\java\com\arabie\Address.java

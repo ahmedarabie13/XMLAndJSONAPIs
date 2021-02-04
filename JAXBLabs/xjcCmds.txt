@@ -1,0 +1,1 @@
+xjc -d src\main\java -p com.arabie.models src\main\resources\
